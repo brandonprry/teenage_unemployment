@@ -13,7 +13,8 @@ teenagers specifically.
 
 ![](rates.png)
 
-Federal paper from 1983 wondering how on earth this could be?
+Federal paper from 1983 wondering how on earth this could be? What
+happened in 1954 to kick off such a huge change?
 
 ![](possible.png)
 
