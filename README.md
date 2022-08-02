@@ -1,6 +1,6 @@
 # Minimum Wage Effects on Minority Teens
 
-![](image.png)
+![](image2.png)
 
 ![](rates.png)
 
