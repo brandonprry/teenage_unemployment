@@ -21,3 +21,6 @@ happened in 1954 to kick off such a huge change?
 Chart from Walter Williams' documentary Good Intentions
 
 ![](min_wage.png)
+
+Today, black male teenager unemployment is consistently twice as high as
+white male teenager unemployment and has been since the mid-80s.
