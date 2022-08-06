@@ -13,8 +13,6 @@ teenagers specifically.
 
 ![](rates.png)
 
-![](bls.jpg)
-
 Federal paper from 1983 wondering how on earth this could be? What
 happened in 1954 to kick off such a huge change?
 
@@ -23,6 +21,11 @@ happened in 1954 to kick off such a huge change?
 Chart from Walter Williams' documentary Good Intentions
 
 ![](min_wage.png)
+
+Chart from Walter Williams' book The State Against Blacks
+
+![](bls.jpg)
+
 
 Today, black male teenager unemployment is consistently twice as high as
 white male teenager unemployment and has been since the mid-80s.
