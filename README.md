@@ -30,4 +30,5 @@ Chart from Walter Williams' book The State Against Blacks
 Today, black male teenager unemployment is consistently twice as high as
 white male teenager unemployment and has been since the mid-80s.
 
+https://civilrights.org/edfund/resource/the-crisis-of-black-teenage-unemployment/
 https://www.brookings.edu/blog/the-avenue/2021/08/09/julys-jobs-report-shows-black-teens-struggling-with-the-highest-unemployment-rate/
