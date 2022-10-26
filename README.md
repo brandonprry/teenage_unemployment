@@ -1,7 +1,7 @@
 # Minimum Wage Effects on Minority Teens
 
 Excerpt from Bureau of Labor and Statistics paper on employment rates
-between blacks and whites between 1940 and 1952, published in 1953.
+of blacks and whites between 1940 and 1952, published in 1953.
 Black male and white male employment rates as a percent of population
 are "virtually" equal.
 
