@@ -18,7 +18,7 @@ happened in 1954 to kick off such a huge change?
 
 ![](possible.png)
 
-Chart from Walter Williams' documentary Good Intentions
+Chart from Walter Williams' documentary Good Intentions (https://www.youtube.com/watch?v=hNDgcjVGHIw)
 
 ![](min_wage.png)
 
