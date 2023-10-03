@@ -39,3 +39,7 @@ The UK (hardly a society of free market ideals) sees this problem quite clearly.
 https://minimumwage.blog.gov.uk/2020/03/09/why-do-young-people-have-lower-minimum-wages/
 
 ![uktier](https://github.com/brandonprry/teenage_unemployment/assets/483180/305bf40f-1d8f-4a7f-bba0-b0220b43167c)
+
+Take this into account with the fact that the labor force participation rate of young workers in the UK is consistently higher than the US. Unemployed teens become underemployed adults.
+
+![labor](https://github.com/brandonprry/teenage_unemployment/assets/483180/040210a7-477c-4a5d-85aa-816716da1527)
